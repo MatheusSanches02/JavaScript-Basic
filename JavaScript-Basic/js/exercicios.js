@@ -106,15 +106,6 @@ ex06.addEventListener("click", () => {
     console.log(sum)
 });
 
-const ex07 = document.querySelector(".ex07");
-ex07.addEventListener("click", () => {
-    alert("Estou funcionando")
-});
-
-const ex08 = document.querySelector(".ex08");
-ex08.addEventListener("click", () => {
-    alert("Estou funcionando")
-});
 /**
  * IF TERNARIO
  * 
